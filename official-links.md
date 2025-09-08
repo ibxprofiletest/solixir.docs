@@ -6,7 +6,7 @@
 
 **Telegram:** [https://t.me/elixir\_ai](https://t.me/elixir_ai)
 
-**Website:** [https://elixir-ai.pro/](https://elixir-ai.pro/)
+**Website:** [https://solixir.io/](https://solixir.io/)
 
 
 **Docs:** [https://docs.elixir-ai.pro/](https://docs.elixir-ai.pro/)
