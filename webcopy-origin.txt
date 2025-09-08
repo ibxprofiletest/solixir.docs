@@ -2,12 +2,12 @@ Uri: https://docs.elixir-ai.pro/
 File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\index.htm
 Content Type: text/html
 
-Uri: https://docs.elixir-ai.pro/about-elixir-ai
-File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\about-elixir-ai.html
+Uri: https://docs.elixir-ai.pro/about-solixir
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\about-solixir.html
 Content Type: text/html
 
-Uri: https://docs.elixir-ai.pro/about-elixir-ai.md
-File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\about-elixir-ai.md
+Uri: https://docs.elixir-ai.pro/about-solixir.md
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\about-solixir.md
 Content Type: text/markdown
 
 Uri: https://docs.elixir-ai.pro/cdn-cgi/images/browser-bar.png?1376755637
@@ -62,28 +62,28 @@ Uri: https://docs.elixir-ai.pro/cdn-cgi/styles/cf.errors.css
 File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\cdn-cgi\styles\cf.errors.css
 Content Type: text/css
 
-Uri: https://docs.elixir-ai.pro/elixir-ai-platform/api-access
-File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\elixir-ai-platform\api-access.html
+Uri: https://docs.elixir-ai.pro/solixir-platform/api-access
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\solixir-platform\api-access.html
 Content Type: text/html
 
-Uri: https://docs.elixir-ai.pro/elixir-ai-platform/api-access.md
-File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\elixir-ai-platform\api-access.md
+Uri: https://docs.elixir-ai.pro/solixir-platform/api-access.md
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\solixir-platform\api-access.md
 Content Type: text/markdown
 
-Uri: https://docs.elixir-ai.pro/elixir-ai-platform/guide-for-users
-File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\elixir-ai-platform\guide-for-users.html
+Uri: https://docs.elixir-ai.pro/solixir-platform/guide-for-users
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\solixir-platform\guide-for-users.html
 Content Type: text/html
 
-Uri: https://docs.elixir-ai.pro/elixir-ai-platform/guide-for-users.md
-File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\elixir-ai-platform\guide-for-users.md
+Uri: https://docs.elixir-ai.pro/solixir-platform/guide-for-users.md
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\solixir-platform\guide-for-users.md
 Content Type: text/markdown
 
-Uri: https://docs.elixir-ai.pro/elixir-ai-platform/privacy-policy
-File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\elixir-ai-platform\privacy-policy.html
+Uri: https://docs.elixir-ai.pro/solixir-platform/privacy-policy
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\solixir-platform\privacy-policy.html
 Content Type: text/html
 
-Uri: https://docs.elixir-ai.pro/elixir-ai-platform/privacy-policy.md
-File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\elixir-ai-platform\privacy-policy.md
+Uri: https://docs.elixir-ai.pro/solixir-platform/privacy-policy.md
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\solixir-platform\privacy-policy.md
 Content Type: text/markdown
 
 Uri: https://docs.elixir-ai.pro/main-problem.md
