@@ -1,6 +1,6 @@
 # Official Links
 
-**Solscan:** [https://solscan.io/token/jriiULJQwgqdU48hTv1eKqK4ipCiCWBnP9CZbonpump](https://solscan.io/token/jriiULJQwgqdU48hTv1eKqK4ipCiCWBnP9CZbonpump)
+**Solscan:** [https://solscan.io/token/](https://solscan.io/token/)
 
 **X (formerly Twitter):** [https://x.com/elixir\_sol](https://x.com/elixir_sol)
 
@@ -8,4 +8,5 @@
 
 **Website:** [https://elixir-ai.pro/](https://elixir-ai.pro/)
 
-**Docs:** [https://docs.elixir-ai.pro/](https://docs.elixir-ai.pro/)
+
+**Docs:** [https://docs.elixir-ai.pro/](https://docs.elixir-ai.pro/)
