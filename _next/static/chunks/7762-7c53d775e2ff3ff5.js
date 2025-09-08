@@ -514,18 +514,7 @@
                   "focus-within:bg-tint-hover"
                 ),
                 ...n({ ask: e, open: !0 }),
-                children: [
-                  (0, s.jsx)(m.In, {
-                    icon: "magnifying-glass",
-                    className: (0, x.P)(
-                      "size-4",
-                      "shrink-0",
-                      "mr-2",
-                      "text-tint-subtle"
-                    ),
-                  }),
-                  (0, s.jsx)("span", { children: e }),
-                ],
+                children: [],
               },
               e
             )
@@ -1490,17 +1479,15 @@
             b = (0, a.useRef)(null),
             v = (0, l.ok)(),
             y = (0, c.K)(["ButtonStyles"]);
-          return (
-            (0, a.useEffect)(() => {
-              var e, t, n;
-              x
-                ? document.activeElement !== b.current &&
-                  (null == (e = b.current) || e.focus({ preventScroll: !0 }),
-                  null == (t = b.current) ||
-                    t.setSelectionRange(p.length, p.length))
-                : null == (n = b.current) || n.blur();
-            }, [x, p])
-          );
+          return (0, a.useEffect)(() => {
+            var e, t, n;
+            x
+              ? document.activeElement !== b.current &&
+                (null == (e = b.current) || e.focus({ preventScroll: !0 }),
+                null == (t = b.current) ||
+                  t.setSelectionRange(p.length, p.length))
+              : null == (n = b.current) || n.blur();
+          }, [x, p]);
         });
       function m() {
         let [e, t] = (0, a.useState)(null);
