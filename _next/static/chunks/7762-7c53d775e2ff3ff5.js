@@ -1499,30 +1499,7 @@
                 return e.includes("mac") ? "mac" : (e.includes("win"), "win");
               })()
             );
-          }, []),
-          (0, s.jsxs)("div", {
-            "aria-busy": null === e ? "true" : void 0,
-            className: (0, r.P)(
-              'shortcut -mr-1 relative z-10 hidden justify-end gap-0.5 whitespace-nowrap text-xs [font-feature-settings:"calt","case"] after:absolute after:right-full after:z-20 after:h-full after:w-8 after:bg-linear-to-r after:from-transparent after:to-tint-base theme-bold:after:to-transparent after:content-[\'\'] contrast-more:text-tint-strong md:flex',
-              e
-                ? "motion-safe:animate-fade-in motion-reduce:opacity-11"
-                : "opacity-0"
-            ),
-            children: [
-              (0, s.jsx)("kbd", {
-                className:
-                  "flex h-5 min-w-5 items-center justify-center rounded-sm border border-tint-subtle theme-bold:border-header-link/5 bg-tint-base theme-bold:bg-header-background px-1 ".concat(
-                    "mac" === e ? "text-sm" : ""
-                  ),
-                children: "mac" === e ? "⌘" : "Ctrl",
-              }),
-              (0, s.jsx)("kbd", {
-                className:
-                  "flex size-5 items-center justify-center rounded-sm border border-tint-subtle theme-bold:border-header-link/5 bg-tint-base theme-bold:bg-header-background px-1",
-                children: "K",
-              }),
-            ],
-          })
+          }, [])
         );
       }
     },
@@ -2712,45 +2689,8 @@
                 return e.includes("mac") ? "mac" : (e.includes("win"), "win");
               })()
             );
-          }, []),
-          (0, s.jsx)("div", {
-            "aria-busy": null === i ? "true" : void 0,
-            className: (0, a.P)(
-              'shortcut hidden justify-end gap-0.5 whitespace-nowrap text-tint text-xs [font-feature-settings:"calt","case"] contrast-more:text-tint-strong md:flex',
-              i
-                ? "motion-safe:animate-fade-in motion-reduce:opacity-100"
-                : "opacity-0"
-            ),
-            children: t.map((e, t) => {
-              let r = e;
-              switch (e) {
-                case "mod":
-                  r = "mac" === i ? "⌘" : "Ctrl";
-                  break;
-                case "enter":
-                  r = (0, s.jsx)(l.In, {
-                    icon: "arrow-turn-down-left",
-                    className: "size-[.75em]",
-                  });
-              }
-              return (0, s.jsx)(
-                "kbd",
-                {
-                  className: (0, a.P)(
-                    "flex h-5 min-w-5 items-center justify-center rounded-md border border-tint-subtle px-1",
-                    "mod" === e
-                      ? "mac" === i
-                        ? "text-sm"
-                        : "text-xs"
-                      : "uppercase",
-                    n
-                  ),
-                  children: r,
-                },
-                t
-              );
-            }),
-          })
+          }, [])
+          
         );
       }
     },
