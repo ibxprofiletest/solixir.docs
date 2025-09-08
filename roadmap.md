@@ -2,7 +2,7 @@
 
 <figure><img src="https://1734432750-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F8jiPYSjwm8eKyTblT7u6%2Fuploads%2FPG09KguOPQwuAx5nudw3%2Fimage.png?alt=media&#x26;token=c1dcf452-5c11-4e75-9f4b-6fd2184afb37" alt=""><figcaption></figcaption></figure>
 
-**Phase 1 - The Beginning, Q1 2025**
+**Phase 1 - The Beginning**
 
 * [x] Development of ideas
 * [x] Team recruitment
@@ -11,7 +11,7 @@
 * [x] Whitepaper v1
 * [x] Website & dApp v1
 
-**Phase 2 - Launch, Q2 2025**
+**Phase 2 - Launch**
 
 * [x] MVP Released
 * [x] Smart-contract development
@@ -21,7 +21,7 @@
 * [ ] CMC Listing
 * [ ] CG ListingCG Listing
 
-**Phase 3 - Post-Launch, Q2 2025**
+**Phase 3 - Post-Launch**
 
 * [ ] Partnerships with mass media giants like MarketWatch, Benzinga, Yahoo
 * [ ] Dextools / Dexscreener / Ave.ai Trendings
@@ -35,7 +35,7 @@
 * [ ] Jupiter verification
 * [ ] AMA Sessions Season (20+ AMAs)
 
-**Phase 4 - Platform Improvement, Q3 2025**
+**Phase 4 - Platform Improvement**
 
 * [ ] Text to 3D release
 * [ ] Public API Access (3rd party devs)
@@ -44,7 +44,7 @@
 * [ ] 3D Art Designs release
 * [ ] dApp v2 release
 
-**Phase 5 - Market Expansion, Q4 2025**
+**Phase 5 - Market Expansion**
 
 * [ ] LBank / Bitrue Listing
 * [ ] Staking Pools release
