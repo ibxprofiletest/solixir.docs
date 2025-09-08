@@ -1,0 +1,1488 @@
+Uri: https://docs.elixir-ai.pro/
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\index.htm
+Content Type: text/html
+
+Uri: https://docs.elixir-ai.pro/about-elixir-ai
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\about-elixir-ai.html
+Content Type: text/html
+
+Uri: https://docs.elixir-ai.pro/about-elixir-ai.md
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\about-elixir-ai.md
+Content Type: text/markdown
+
+Uri: https://docs.elixir-ai.pro/cdn-cgi/images/browser-bar.png?1376755637
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://docs.elixir-ai.pro/cdn-cgi/images/cf-icon-browser.png
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://docs.elixir-ai.pro/cdn-cgi/images/cf-icon-cloud.png
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://docs.elixir-ai.pro/cdn-cgi/images/cf-icon-error.png
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://docs.elixir-ai.pro/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://docs.elixir-ai.pro/cdn-cgi/images/cf-icon-ok.png
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://docs.elixir-ai.pro/cdn-cgi/images/cf-icon-server.png
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://docs.elixir-ai.pro/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://docs.elixir-ai.pro/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://docs.elixir-ai.pro/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://docs.elixir-ai.pro/cdn-cgi/l/email-protection
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://docs.elixir-ai.pro/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://docs.elixir-ai.pro/cdn-cgi/styles/cf.errors.css
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://docs.elixir-ai.pro/elixir-ai-platform/api-access
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\elixir-ai-platform\api-access.html
+Content Type: text/html
+
+Uri: https://docs.elixir-ai.pro/elixir-ai-platform/api-access.md
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\elixir-ai-platform\api-access.md
+Content Type: text/markdown
+
+Uri: https://docs.elixir-ai.pro/elixir-ai-platform/guide-for-users
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\elixir-ai-platform\guide-for-users.html
+Content Type: text/html
+
+Uri: https://docs.elixir-ai.pro/elixir-ai-platform/guide-for-users.md
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\elixir-ai-platform\guide-for-users.md
+Content Type: text/markdown
+
+Uri: https://docs.elixir-ai.pro/elixir-ai-platform/privacy-policy
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\elixir-ai-platform\privacy-policy.html
+Content Type: text/html
+
+Uri: https://docs.elixir-ai.pro/elixir-ai-platform/privacy-policy.md
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\elixir-ai-platform\privacy-policy.md
+Content Type: text/markdown
+
+Uri: https://docs.elixir-ai.pro/main-problem.md
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\main-problem.md
+Content Type: text/markdown
+
+Uri: https://docs.elixir-ai.pro/market-prospects
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\market-prospects.html
+Content Type: text/html
+
+Uri: https://docs.elixir-ai.pro/market-prospects.md
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\market-prospects.md
+Content Type: text/markdown
+
+Uri: https://docs.elixir-ai.pro/official-links
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\official-links.html
+Content Type: text/html
+
+Uri: https://docs.elixir-ai.pro/official-links.md
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\official-links.md
+Content Type: text/markdown
+
+Uri: https://docs.elixir-ai.pro/roadmap
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\roadmap.html
+Content Type: text/html
+
+Uri: https://docs.elixir-ai.pro/roadmap.md
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\roadmap.md
+Content Type: text/markdown
+
+Uri: https://docs.elixir-ai.pro/usdelxai-token
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\usdelxai-token.html
+Content Type: text/html
+
+Uri: https://docs.elixir-ai.pro/usdelxai-token.md
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\usdelxai-token.md
+Content Type: text/markdown
+
+Uri: https://docs.elixir-ai.pro/~gitbook/icon?size=medium&theme=dark
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\icon-3
+Content Type: image/png
+
+Uri: https://docs.elixir-ai.pro/~gitbook/icon?size=medium&theme=light
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\icon
+Content Type: image/png
+
+Uri: https://docs.elixir-ai.pro/~gitbook/icon?size=small&theme=dark
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\icon-2
+Content Type: image/png
+
+Uri: https://docs.elixir-ai.pro/~gitbook/icon?size=small&theme=light
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\icon-1
+Content Type: image/png
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FA0wA2sREFp7OKpTQk9pD%252Fimage.png%3Falt%3Dmedia%26token%3D63f944be-c67a-41d6-80ea-8217b836b26b&width=400&dpr=1&quality=100&sign=8bf686ad&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-57
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FA0wA2sREFp7OKpTQk9pD%252Fimage.png%3Falt%3Dmedia%26token%3D63f944be-c67a-41d6-80ea-8217b836b26b&width=400&dpr=2&quality=100&sign=8bf686ad&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-58
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FA0wA2sREFp7OKpTQk9pD%252Fimage.png%3Falt%3Dmedia%26token%3D63f944be-c67a-41d6-80ea-8217b836b26b&width=400&dpr=3&quality=100&sign=8bf686ad&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-59
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FA0wA2sREFp7OKpTQk9pD%252Fimage.png%3Falt%3Dmedia%26token%3D63f944be-c67a-41d6-80ea-8217b836b26b&width=400&dpr=4&quality=100&sign=8bf686ad&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-60
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FA0wA2sREFp7OKpTQk9pD%252Fimage.png%3Falt%3Dmedia%26token%3D63f944be-c67a-41d6-80ea-8217b836b26b&width=768&dpr=1&quality=100&sign=8bf686ad&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-61
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FA0wA2sREFp7OKpTQk9pD%252Fimage.png%3Falt%3Dmedia%26token%3D63f944be-c67a-41d6-80ea-8217b836b26b&width=768&dpr=2&quality=100&sign=8bf686ad&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-62
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FA0wA2sREFp7OKpTQk9pD%252Fimage.png%3Falt%3Dmedia%26token%3D63f944be-c67a-41d6-80ea-8217b836b26b&width=768&dpr=3&quality=100&sign=8bf686ad&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-63
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FA0wA2sREFp7OKpTQk9pD%252Fimage.png%3Falt%3Dmedia%26token%3D63f944be-c67a-41d6-80ea-8217b836b26b&width=768&dpr=4&quality=100&sign=8bf686ad&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-42
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FekLHfj8X7XnkNHpk1b0U%252Fimage.png%3Falt%3Dmedia%26token%3D25d38c4e-1543-4ba2-b4f8-1b6cb34434a2&width=400&dpr=1&quality=100&sign=a334152&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-1
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FekLHfj8X7XnkNHpk1b0U%252Fimage.png%3Falt%3Dmedia%26token%3D25d38c4e-1543-4ba2-b4f8-1b6cb34434a2&width=400&dpr=2&quality=100&sign=a334152&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-2
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FekLHfj8X7XnkNHpk1b0U%252Fimage.png%3Falt%3Dmedia%26token%3D25d38c4e-1543-4ba2-b4f8-1b6cb34434a2&width=400&dpr=3&quality=100&sign=a334152&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-3
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FekLHfj8X7XnkNHpk1b0U%252Fimage.png%3Falt%3Dmedia%26token%3D25d38c4e-1543-4ba2-b4f8-1b6cb34434a2&width=400&dpr=4&quality=100&sign=a334152&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-4
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FekLHfj8X7XnkNHpk1b0U%252Fimage.png%3Falt%3Dmedia%26token%3D25d38c4e-1543-4ba2-b4f8-1b6cb34434a2&width=768&dpr=1&quality=100&sign=a334152&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-5
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FekLHfj8X7XnkNHpk1b0U%252Fimage.png%3Falt%3Dmedia%26token%3D25d38c4e-1543-4ba2-b4f8-1b6cb34434a2&width=768&dpr=2&quality=100&sign=a334152&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-6
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FekLHfj8X7XnkNHpk1b0U%252Fimage.png%3Falt%3Dmedia%26token%3D25d38c4e-1543-4ba2-b4f8-1b6cb34434a2&width=768&dpr=3&quality=100&sign=a334152&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-7
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FekLHfj8X7XnkNHpk1b0U%252Fimage.png%3Falt%3Dmedia%26token%3D25d38c4e-1543-4ba2-b4f8-1b6cb34434a2&width=768&dpr=4&quality=100&sign=a334152&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FeqL2Gq3J6fEWwV77AfW8%252Fimage.png%3Falt%3Dmedia%26token%3Db8ab64ed-aa48-4544-bba7-3543c197a055&width=400&dpr=1&quality=100&sign=f1ba2969&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-9
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FeqL2Gq3J6fEWwV77AfW8%252Fimage.png%3Falt%3Dmedia%26token%3Db8ab64ed-aa48-4544-bba7-3543c197a055&width=400&dpr=2&quality=100&sign=f1ba2969&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-10
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FeqL2Gq3J6fEWwV77AfW8%252Fimage.png%3Falt%3Dmedia%26token%3Db8ab64ed-aa48-4544-bba7-3543c197a055&width=400&dpr=3&quality=100&sign=f1ba2969&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-11
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FeqL2Gq3J6fEWwV77AfW8%252Fimage.png%3Falt%3Dmedia%26token%3Db8ab64ed-aa48-4544-bba7-3543c197a055&width=400&dpr=4&quality=100&sign=f1ba2969&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-12
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FeqL2Gq3J6fEWwV77AfW8%252Fimage.png%3Falt%3Dmedia%26token%3Db8ab64ed-aa48-4544-bba7-3543c197a055&width=768&dpr=1&quality=100&sign=f1ba2969&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-13
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FeqL2Gq3J6fEWwV77AfW8%252Fimage.png%3Falt%3Dmedia%26token%3Db8ab64ed-aa48-4544-bba7-3543c197a055&width=768&dpr=2&quality=100&sign=f1ba2969&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-14
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FeqL2Gq3J6fEWwV77AfW8%252Fimage.png%3Falt%3Dmedia%26token%3Db8ab64ed-aa48-4544-bba7-3543c197a055&width=768&dpr=3&quality=100&sign=f1ba2969&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-15
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FeqL2Gq3J6fEWwV77AfW8%252Fimage.png%3Falt%3Dmedia%26token%3Db8ab64ed-aa48-4544-bba7-3543c197a055&width=768&dpr=4&quality=100&sign=f1ba2969&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-8
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FJK82krbwjjQhS3zRZEmU%252Fimage.png%3Falt%3Dmedia%26token%3Dee1b15f9-3281-40d3-97ff-430ad5475b79&width=400&dpr=1&quality=100&sign=1b9d61ad&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-17
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FJK82krbwjjQhS3zRZEmU%252Fimage.png%3Falt%3Dmedia%26token%3Dee1b15f9-3281-40d3-97ff-430ad5475b79&width=400&dpr=2&quality=100&sign=1b9d61ad&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-18
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FJK82krbwjjQhS3zRZEmU%252Fimage.png%3Falt%3Dmedia%26token%3Dee1b15f9-3281-40d3-97ff-430ad5475b79&width=400&dpr=3&quality=100&sign=1b9d61ad&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-19
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FJK82krbwjjQhS3zRZEmU%252Fimage.png%3Falt%3Dmedia%26token%3Dee1b15f9-3281-40d3-97ff-430ad5475b79&width=400&dpr=4&quality=100&sign=1b9d61ad&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-20
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FJK82krbwjjQhS3zRZEmU%252Fimage.png%3Falt%3Dmedia%26token%3Dee1b15f9-3281-40d3-97ff-430ad5475b79&width=768&dpr=1&quality=100&sign=1b9d61ad&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-21
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FJK82krbwjjQhS3zRZEmU%252Fimage.png%3Falt%3Dmedia%26token%3Dee1b15f9-3281-40d3-97ff-430ad5475b79&width=768&dpr=2&quality=100&sign=1b9d61ad&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-22
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FJK82krbwjjQhS3zRZEmU%252Fimage.png%3Falt%3Dmedia%26token%3Dee1b15f9-3281-40d3-97ff-430ad5475b79&width=768&dpr=3&quality=100&sign=1b9d61ad&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-23
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FJK82krbwjjQhS3zRZEmU%252Fimage.png%3Falt%3Dmedia%26token%3Dee1b15f9-3281-40d3-97ff-430ad5475b79&width=768&dpr=4&quality=100&sign=1b9d61ad&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-16
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FKAy6giGrjtgrc40jfPej%252Fimage.png%3Falt%3Dmedia%26token%3Da481ef15-25d3-482d-9580-8ecd96450f18&width=400&dpr=1&quality=100&sign=63f1eb59&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-50
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FKAy6giGrjtgrc40jfPej%252Fimage.png%3Falt%3Dmedia%26token%3Da481ef15-25d3-482d-9580-8ecd96450f18&width=400&dpr=2&quality=100&sign=63f1eb59&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-51
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FKAy6giGrjtgrc40jfPej%252Fimage.png%3Falt%3Dmedia%26token%3Da481ef15-25d3-482d-9580-8ecd96450f18&width=400&dpr=3&quality=100&sign=63f1eb59&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-52
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FKAy6giGrjtgrc40jfPej%252Fimage.png%3Falt%3Dmedia%26token%3Da481ef15-25d3-482d-9580-8ecd96450f18&width=400&dpr=4&quality=100&sign=63f1eb59&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-53
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FKAy6giGrjtgrc40jfPej%252Fimage.png%3Falt%3Dmedia%26token%3Da481ef15-25d3-482d-9580-8ecd96450f18&width=768&dpr=1&quality=100&sign=63f1eb59&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-54
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FKAy6giGrjtgrc40jfPej%252Fimage.png%3Falt%3Dmedia%26token%3Da481ef15-25d3-482d-9580-8ecd96450f18&width=768&dpr=2&quality=100&sign=63f1eb59&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-55
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FKAy6giGrjtgrc40jfPej%252Fimage.png%3Falt%3Dmedia%26token%3Da481ef15-25d3-482d-9580-8ecd96450f18&width=768&dpr=3&quality=100&sign=63f1eb59&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-56
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FKAy6giGrjtgrc40jfPej%252Fimage.png%3Falt%3Dmedia%26token%3Da481ef15-25d3-482d-9580-8ecd96450f18&width=768&dpr=4&quality=100&sign=63f1eb59&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-41
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FLiirHjPODOYUCkaKMqkn%252Fimage.png%3Falt%3Dmedia%26token%3D1f09c57e-f1fc-4e31-ac0a-761ab2bd9834&width=400&dpr=1&quality=100&sign=9c7ba102&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-43
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FLiirHjPODOYUCkaKMqkn%252Fimage.png%3Falt%3Dmedia%26token%3D1f09c57e-f1fc-4e31-ac0a-761ab2bd9834&width=400&dpr=2&quality=100&sign=9c7ba102&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-44
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FLiirHjPODOYUCkaKMqkn%252Fimage.png%3Falt%3Dmedia%26token%3D1f09c57e-f1fc-4e31-ac0a-761ab2bd9834&width=400&dpr=3&quality=100&sign=9c7ba102&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-45
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FLiirHjPODOYUCkaKMqkn%252Fimage.png%3Falt%3Dmedia%26token%3D1f09c57e-f1fc-4e31-ac0a-761ab2bd9834&width=400&dpr=4&quality=100&sign=9c7ba102&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-46
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FLiirHjPODOYUCkaKMqkn%252Fimage.png%3Falt%3Dmedia%26token%3D1f09c57e-f1fc-4e31-ac0a-761ab2bd9834&width=768&dpr=1&quality=100&sign=9c7ba102&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-47
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FLiirHjPODOYUCkaKMqkn%252Fimage.png%3Falt%3Dmedia%26token%3D1f09c57e-f1fc-4e31-ac0a-761ab2bd9834&width=768&dpr=2&quality=100&sign=9c7ba102&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-48
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FLiirHjPODOYUCkaKMqkn%252Fimage.png%3Falt%3Dmedia%26token%3D1f09c57e-f1fc-4e31-ac0a-761ab2bd9834&width=768&dpr=3&quality=100&sign=9c7ba102&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-49
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FLiirHjPODOYUCkaKMqkn%252Fimage.png%3Falt%3Dmedia%26token%3D1f09c57e-f1fc-4e31-ac0a-761ab2bd9834&width=768&dpr=4&quality=100&sign=9c7ba102&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-40
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FPG09KguOPQwuAx5nudw3%252Fimage.png%3Falt%3Dmedia%26token%3Dc1dcf452-5c11-4e75-9f4b-6fd2184afb37&width=400&dpr=1&quality=100&sign=3b7664e4&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-25
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FPG09KguOPQwuAx5nudw3%252Fimage.png%3Falt%3Dmedia%26token%3Dc1dcf452-5c11-4e75-9f4b-6fd2184afb37&width=400&dpr=2&quality=100&sign=3b7664e4&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-26
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FPG09KguOPQwuAx5nudw3%252Fimage.png%3Falt%3Dmedia%26token%3Dc1dcf452-5c11-4e75-9f4b-6fd2184afb37&width=400&dpr=3&quality=100&sign=3b7664e4&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-27
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FPG09KguOPQwuAx5nudw3%252Fimage.png%3Falt%3Dmedia%26token%3Dc1dcf452-5c11-4e75-9f4b-6fd2184afb37&width=400&dpr=4&quality=100&sign=3b7664e4&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-28
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FPG09KguOPQwuAx5nudw3%252Fimage.png%3Falt%3Dmedia%26token%3Dc1dcf452-5c11-4e75-9f4b-6fd2184afb37&width=768&dpr=1&quality=100&sign=3b7664e4&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-29
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FPG09KguOPQwuAx5nudw3%252Fimage.png%3Falt%3Dmedia%26token%3Dc1dcf452-5c11-4e75-9f4b-6fd2184afb37&width=768&dpr=2&quality=100&sign=3b7664e4&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-30
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FPG09KguOPQwuAx5nudw3%252Fimage.png%3Falt%3Dmedia%26token%3Dc1dcf452-5c11-4e75-9f4b-6fd2184afb37&width=768&dpr=3&quality=100&sign=3b7664e4&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-31
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FPG09KguOPQwuAx5nudw3%252Fimage.png%3Falt%3Dmedia%26token%3Dc1dcf452-5c11-4e75-9f4b-6fd2184afb37&width=768&dpr=4&quality=100&sign=3b7664e4&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-24
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FusXZ7ogqxDybxgsaSsPf%252Fimage.png%3Falt%3Dmedia%26token%3D9ceac6a0-02da-44a6-b322-a9e26fdea054&width=400&dpr=1&quality=100&sign=d1b0b3b1&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-33
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FusXZ7ogqxDybxgsaSsPf%252Fimage.png%3Falt%3Dmedia%26token%3D9ceac6a0-02da-44a6-b322-a9e26fdea054&width=400&dpr=2&quality=100&sign=d1b0b3b1&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-34
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FusXZ7ogqxDybxgsaSsPf%252Fimage.png%3Falt%3Dmedia%26token%3D9ceac6a0-02da-44a6-b322-a9e26fdea054&width=400&dpr=3&quality=100&sign=d1b0b3b1&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-35
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FusXZ7ogqxDybxgsaSsPf%252Fimage.png%3Falt%3Dmedia%26token%3D9ceac6a0-02da-44a6-b322-a9e26fdea054&width=400&dpr=4&quality=100&sign=d1b0b3b1&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-36
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FusXZ7ogqxDybxgsaSsPf%252Fimage.png%3Falt%3Dmedia%26token%3D9ceac6a0-02da-44a6-b322-a9e26fdea054&width=768&dpr=1&quality=100&sign=d1b0b3b1&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-37
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FusXZ7ogqxDybxgsaSsPf%252Fimage.png%3Falt%3Dmedia%26token%3D9ceac6a0-02da-44a6-b322-a9e26fdea054&width=768&dpr=2&quality=100&sign=d1b0b3b1&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-38
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FusXZ7ogqxDybxgsaSsPf%252Fimage.png%3Falt%3Dmedia%26token%3D9ceac6a0-02da-44a6-b322-a9e26fdea054&width=768&dpr=3&quality=100&sign=d1b0b3b1&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-39
+Content Type: image/jpeg
+
+Uri: https://docs.elixir-ai.pro/~gitbook/image?url=https:%2F%2F1734432750-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8jiPYSjwm8eKyTblT7u6%252Fuploads%252FusXZ7ogqxDybxgsaSsPf%252Fimage.png%3Falt%3Dmedia%26token%3D9ceac6a0-02da-44a6-b322-a9e26fdea054&width=768&dpr=4&quality=100&sign=d1b0b3b1&sv=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\image-32
+Content Type: image/jpeg
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/arrow-up-right-dots.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\arrow-up-right-dots.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\arrow-up-right.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/bars.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\bars.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/block-quote.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\block-quote.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/book-open.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\book-open.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/chevron-down.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\chevron-down.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/chevron-left.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\chevron-left.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/chevron-right.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\chevron-right.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/circle-info.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\circle-info.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/coin.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\coin.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/comment-question.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\comment-question.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/copy.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\copy.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/exclamation.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\exclamation.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/flask-round-potion.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\flask-round-potion.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/globe-pointer.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\globe-pointer.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/hashtag.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\hashtag.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/link.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\link.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/magnifying-glass.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\magnifying-glass.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/regular/map-location.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\regular\map-location.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-p.fontawesome.com/releases/v6.6.0/svgs/solid/check.svg?v=2&token=a463935e93
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\releases\v6.6.0\svgs\solid\check.svg
+Content Type: image/svg+xml
+
+Uri: https://static-2v.gitbook.com/_next/static/chunks/2580-42913c9cbf6e0792.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\chunks\2580-42913c9cbf6e0792.js
+Content Type: application/javascript
+
+Uri: https://static-2v.gitbook.com/_next/static/chunks/4640-001001ddfd76553e.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\chunks\4640-001001ddfd76553e.js
+Content Type: application/javascript
+
+Uri: https://static-2v.gitbook.com/_next/static/chunks/4856-0250bcc25d40be75.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\chunks\4856-0250bcc25d40be75.js
+Content Type: application/javascript
+
+Uri: https://static-2v.gitbook.com/_next/static/chunks/5213-8303193ff5b3e0e8.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\chunks\5213-8303193ff5b3e0e8.js
+Content Type: application/javascript
+
+Uri: https://static-2v.gitbook.com/_next/static/chunks/5337-1bfad5dc8bf35ff4.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\chunks\5337-1bfad5dc8bf35ff4.js
+Content Type: application/javascript
+
+Uri: https://static-2v.gitbook.com/_next/static/chunks/7582-ed84f88cf37ca35d.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\chunks\7582-ed84f88cf37ca35d.js
+Content Type: application/javascript
+
+Uri: https://static-2v.gitbook.com/_next/static/chunks/7762-7c53d775e2ff3ff5.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\chunks\7762-7c53d775e2ff3ff5.js
+Content Type: application/javascript
+
+Uri: https://static-2v.gitbook.com/_next/static/chunks/8315-61f78b36e2294f03.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\chunks\8315-61f78b36e2294f03.js
+Content Type: application/javascript
+
+Uri: https://static-2v.gitbook.com/_next/static/chunks/87c73c54-08dc4ea2c4e40eb1.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\chunks\87c73c54-08dc4ea2c4e40eb1.js
+Content Type: application/javascript
+
+Uri: https://static-2v.gitbook.com/_next/static/chunks/9355-b6b4ecfaafe93704.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\chunks\9355-b6b4ecfaafe93704.js
+Content Type: application/javascript
+
+Uri: https://static-2v.gitbook.com/_next/static/chunks/9421-5c674f9c95f7d380.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\chunks\9421-5c674f9c95f7d380.js
+Content Type: application/javascript
+
+Uri: https://static-2v.gitbook.com/_next/static/chunks/9914-e5456c717ca87898.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\chunks\9914-e5456c717ca87898.js
+Content Type: application/javascript
+
+Uri: https://static-2v.gitbook.com/_next/static/chunks/app/global-error-822d7758fef89d7d.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\chunks\app\global-error-822d7758fef89d7d.js
+Content Type: application/javascript
+
+Uri: https://static-2v.gitbook.com/_next/static/chunks/app/sites/static/[mode]/[siteURL]/[siteData]/(content)/[pagePath]/page-5eea57f9b7b868e0.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\chunks\app\sites\static\[mode]\[siteURL]\[siteData]\(content)\[pagePath]\page-5eea57f9b7b868e0.js
+Content Type: application/javascript
+
+Uri: https://static-2v.gitbook.com/_next/static/chunks/app/sites/static/[mode]/[siteURL]/[siteData]/(content)/layout-04cd3164116bd3d1.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\chunks\app\sites\static\[mode]\[siteURL]\[siteData]\(content)\layout-04cd3164116bd3d1.js
+Content Type: application/javascript
+
+Uri: https://static-2v.gitbook.com/_next/static/chunks/main-app-06f8d75bd904c82a.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\chunks\main-app-06f8d75bd904c82a.js
+Content Type: application/javascript
+
+Uri: https://static-2v.gitbook.com/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://static-2v.gitbook.com/_next/static/chunks/webpack-cde01f20cc2de984.js
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\chunks\webpack-cde01f20cc2de984.js
+Content Type: application/javascript
+
+Uri: https://static-2v.gitbook.com/_next/static/css/1d532e9c105a4cb6.css
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\css\1d532e9c105a4cb6.css
+Content Type: text/css
+
+Uri: https://static-2v.gitbook.com/_next/static/css/2729e136968e74f2.css
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\css\2729e136968e74f2.css
+Content Type: text/css
+
+Uri: https://static-2v.gitbook.com/_next/static/css/274ceba6bb6b634e.css
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\css\274ceba6bb6b634e.css
+Content Type: text/css
+
+Uri: https://static-2v.gitbook.com/_next/static/css/4af9aafd612346fe.css
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\css\4af9aafd612346fe.css
+Content Type: text/css
+
+Uri: https://static-2v.gitbook.com/_next/static/css/53ba230a3ad5cee2.css
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\css\53ba230a3ad5cee2.css
+Content Type: text/css
+
+Uri: https://static-2v.gitbook.com/_next/static/css/5480a62a7af46908.css
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\css\5480a62a7af46908.css
+Content Type: text/css
+
+Uri: https://static-2v.gitbook.com/_next/static/css/6f9c76ee4cbe9884.css
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\css\6f9c76ee4cbe9884.css
+Content Type: text/css
+
+Uri: https://static-2v.gitbook.com/_next/static/css/8c7837bed22017b9.css
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\css\8c7837bed22017b9.css
+Content Type: text/css
+
+Uri: https://static-2v.gitbook.com/_next/static/css/a0a242a9b1e69e35.css
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\css\a0a242a9b1e69e35.css
+Content Type: text/css
+
+Uri: https://static-2v.gitbook.com/_next/static/css/dc6dd2587e0f9f85.css
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\css\dc6dd2587e0f9f85.css
+Content Type: text/css
+
+Uri: https://static-2v.gitbook.com/_next/static/css/e4670420fc569cb1.css
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\css\e4670420fc569cb1.css
+Content Type: text/css
+
+Uri: https://static-2v.gitbook.com/_next/static/css/f9045787b4655644.css
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\css\f9045787b4655644.css
+Content Type: text/css
+
+Uri: https://static-2v.gitbook.com/_next/static/media/01721b474504e7d6.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\01721b474504e7d6.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/027647acf05c7ff8-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\027647acf05c7ff8-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/034d78ad42e9620c-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\034d78ad42e9620c-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/035951aefad7b653.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\035951aefad7b653.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/0421fed624cfafec.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\0421fed624cfafec.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/046b90749014f852.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\046b90749014f852.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/0484562807a97172-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\0484562807a97172-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/04c24f78ad5a47d8-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\04c24f78ad5a47d8-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/09ca9e7fa9fac0e7-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\09ca9e7fa9fac0e7-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/0a5e1f922de155b5-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\0a5e1f922de155b5-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/0a68262bca23ef37-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\0a68262bca23ef37-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/0bf2851e5c3c33fd-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\0bf2851e5c3c33fd-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/0c1d5536adb221e7-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\0c1d5536adb221e7-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/0e3bef0061ae10d8-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\0e3bef0061ae10d8-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/0e96d314a90a6138.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\0e96d314a90a6138.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/0ea4f4df910e6120.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\0ea4f4df910e6120.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/0f85484166f4dde6-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\0f85484166f4dde6-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/10dadb2e82d03733-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\10dadb2e82d03733-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/12a3e8885b69eb86-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\12a3e8885b69eb86-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/13a314e63820922b-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\13a314e63820922b-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/14d38ce06836ffee-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\14d38ce06836ffee-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/162938472036e0a8-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\162938472036e0a8-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/1831d554f4a6c72e-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\1831d554f4a6c72e-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/19fc70611c7ee6d5.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\19fc70611c7ee6d5.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/1b31eacdf9f7dd73-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\1b31eacdf9f7dd73-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/1c046691900d7874-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\1c046691900d7874-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/1d8a05b60287ae6c-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\1d8a05b60287ae6c-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/1d91333027dd8ca8-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\1d91333027dd8ca8-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/1e0245f199a3e64d.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\1e0245f199a3e64d.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/1e377d93cbdd6b44-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\1e377d93cbdd6b44-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/1f160ec2cb9962ef.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\1f160ec2cb9962ef.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/1f3fe8c6df3d47c1-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\1f3fe8c6df3d47c1-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/200388358b398524-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\200388358b398524-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/2120ac497748d3bb-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\2120ac497748d3bb-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/21ab7a1b68e1c648-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\21ab7a1b68e1c648-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/224ae988fdf9f2c5-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\224ae988fdf9f2c5-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/23822ac40846484b-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\23822ac40846484b-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/242be082cb290ecd-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\242be082cb290ecd-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/24c15609eaa28576-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\24c15609eaa28576-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/26a46d62cd723877-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\26a46d62cd723877-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/281dae1e814de8c6.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\281dae1e814de8c6.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/28de53b5c7bc7c3a-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\28de53b5c7bc7c3a-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/29a4aea02fdee119-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\29a4aea02fdee119-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/29e7bbdce9332268-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\29e7bbdce9332268-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/2bed6b8169258e4a-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\2bed6b8169258e4a-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/2c07349e02a7b712-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\2c07349e02a7b712-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/2e1b830192b7974a.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\2e1b830192b7974a.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/2ffbbd3601d7a925-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\2ffbbd3601d7a925-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/301c9070498588dc-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\301c9070498588dc-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/304c035dd6e7fc45-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\304c035dd6e7fc45-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/3074e30f980f2641-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\3074e30f980f2641-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/318ccc6bc1fd81ed-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\318ccc6bc1fd81ed-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/31ce3053e521f1d2-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\31ce3053e521f1d2-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/3256b0abf83d177d-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\3256b0abf83d177d-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/3281a323710833ec.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\3281a323710833ec.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/33a864272e2b3e97-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\33a864272e2b3e97-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/3478b6abef19b3b3.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\3478b6abef19b3b3.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/34900c74a84112b6-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\34900c74a84112b6-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/36d711d427a06e51-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\36d711d427a06e51-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/37da3febcafd463e-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\37da3febcafd463e-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/387866ce4a39ca39-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\387866ce4a39ca39-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/393f3d6bd66917ed-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\393f3d6bd66917ed-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/3aa27b2eb5f698f7.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\3aa27b2eb5f698f7.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/3c70c5716f1730b3.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\3c70c5716f1730b3.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/3ca07d8704d03f09-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\3ca07d8704d03f09-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/3ccba4c07802ced8-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\3ccba4c07802ced8-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/3ccf24bed29cbb82.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\3ccf24bed29cbb82.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/3e8ab5100a4aa694-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\3e8ab5100a4aa694-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/3ecd40fce058ee61-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\3ecd40fce058ee61-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/403511e41efd5e81-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\403511e41efd5e81-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/40bfb1458eaec497.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\40bfb1458eaec497.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/40d8f6ced937d546-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\40d8f6ced937d546-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/412dd43c0b8d0102-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\412dd43c0b8d0102-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/443896d591e4f761.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\443896d591e4f761.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/47cbc4e2adbc5db9-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\47cbc4e2adbc5db9-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/498511591a78d65b-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\498511591a78d65b-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/4a55e3a359b42768-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\4a55e3a359b42768-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/4b1cfd3867993fed-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\4b1cfd3867993fed-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/4b5317f5d33d7777-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\4b5317f5d33d7777-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/4bb7c4805b03088f-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\4bb7c4805b03088f-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/4de1fea1a954a5b6-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\4de1fea1a954a5b6-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/4eef596e1e6e9d95-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\4eef596e1e6e9d95-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/500554082cafa35a-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\500554082cafa35a-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/509cabb5f8c63a60-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\509cabb5f8c63a60-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/50cc6d76ab2a2da3.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\50cc6d76ab2a2da3.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/51f6eedf9be77cd7-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\51f6eedf9be77cd7-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/558ca1a6aa3cb55e.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\558ca1a6aa3cb55e.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/55c55f0601d81cf3-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\55c55f0601d81cf3-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/55fbdf033607a0e1-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\55fbdf033607a0e1-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/56f3aa6b4023c23f-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\56f3aa6b4023c23f-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/581909926a08bbc8-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\581909926a08bbc8-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/58d8a8eecfe77d2c-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\58d8a8eecfe77d2c-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/5a38c412fa3989d0-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\5a38c412fa3989d0-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/5b45b5fd85b63a3d.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\5b45b5fd85b63a3d.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/5d258b355fefebcb-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\5d258b355fefebcb-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/5d775c9d084b94a6-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\5d775c9d084b94a6-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/6222c70ac70e330d-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\6222c70ac70e330d-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/6229d45b32b9328e-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\6229d45b32b9328e-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/627d916fd739a539-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\627d916fd739a539-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/630c17af355fa44e-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\630c17af355fa44e-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/64418ffc17e50301.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\64418ffc17e50301.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/64d784ea54a4acde.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\64d784ea54a4acde.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/67110d8fe39c5e84.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\67110d8fe39c5e84.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/684e5662d94c69e1.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\684e5662d94c69e1.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/6aacc40b7795b725.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\6aacc40b7795b725.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/6c313f620f6f7bd5-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\6c313f620f6f7bd5-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/6c94a934ef7856d4-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\6c94a934ef7856d4-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/6d664cce900333ee-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\6d664cce900333ee-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/6d831b18ae5b01dc.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\6d831b18ae5b01dc.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/6d9d93fc6431e29f-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\6d9d93fc6431e29f-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/6f22fce21a7c433c-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\6f22fce21a7c433c-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/70d2fd2b9078a5a3-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\70d2fd2b9078a5a3-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/713ca0c4eb52a2dc-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\713ca0c4eb52a2dc-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/7179dc0a1e7f6876-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\7179dc0a1e7f6876-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/739c2d8941231bb4.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\739c2d8941231bb4.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/74c003a2abab0c4f-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\74c003a2abab0c4f-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/7524e759b2d52ce2.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\7524e759b2d52ce2.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/77c207b095007c34-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\77c207b095007c34-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/77f5a85cac4ea515-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\77f5a85cac4ea515-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/77fb5eec12c66d49.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\77fb5eec12c66d49.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/78bcd4db008a6130-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\78bcd4db008a6130-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/78c1df28fc00c891-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\78c1df28fc00c891-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/7ff6869a1704182a-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\7ff6869a1704182a-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/806de4d605d3ad01.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\806de4d605d3ad01.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/81b238903059be90-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\81b238903059be90-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/82ef96de0e8f4d8c-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\82ef96de0e8f4d8c-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/83feb047e42e457a.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\83feb047e42e457a.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/84602850c8fd81c3-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\84602850c8fd81c3-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/848b99572ad207f3.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\848b99572ad207f3.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/854d2e4705543874-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\854d2e4705543874-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/8888a3826f4a3af4-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\8888a3826f4a3af4-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/88da59c891d37117-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\88da59c891d37117-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/8e9860b6e62d6359-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\8e9860b6e62d6359-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/8ea51a27e153ec43.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\8ea51a27e153ec43.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/8eebb8c231dc9eba-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\8eebb8c231dc9eba-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/90da053edc2b7de3-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\90da053edc2b7de3-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/9329b4c88e9a4c65-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\9329b4c88e9a4c65-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/95d1875af7c44e92-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\95d1875af7c44e92-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/97b12f7b815cdf76.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\97b12f7b815cdf76.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/97e0cb1ae144a2a9-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\97e0cb1ae144a2a9-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/988147dc43fe9ec7-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\988147dc43fe9ec7-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/999e639cd9d85971.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\999e639cd9d85971.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/9cf9c6e84ed13b5e-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\9cf9c6e84ed13b5e-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/9f6132af1a01f4fb-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\9f6132af1a01f4fb-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/a1386beebedccca4-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\a1386beebedccca4-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/a6ecd16fa044d500-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\a6ecd16fa044d500-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/a786a22cd12c67b7-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\a786a22cd12c67b7-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/a82e6554cdca7790-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\a82e6554cdca7790-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/a88c13d5f58b71d4-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\a88c13d5f58b71d4-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/ab344fe54992ad1a-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\ab344fe54992ad1a-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/ac0e76ddaeeb7981.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\ac0e76ddaeeb7981.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/ac3b7908202f8517-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\ac3b7908202f8517-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/ad27d414bd13a504-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\ad27d414bd13a504-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/ad8a7e2c3c2c120b.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\ad8a7e2c3c2c120b.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/ae822095a172cc5c.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\ae822095a172cc5c.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/af2d7ef9b353e758-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\af2d7ef9b353e758-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/af4d27004aa34222-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\af4d27004aa34222-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/b188519314c42064-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\b188519314c42064-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/b22cdab1bc584ea3-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\b22cdab1bc584ea3-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/b5ee789b512e4d1b-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\b5ee789b512e4d1b-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/b664222af7dcc13c-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\b664222af7dcc13c-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/b6a6f0b43d027304-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\b6a6f0b43d027304-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/b6f2eee8808a2bb4.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\b6f2eee8808a2bb4.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/b78b37b810acce9f-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\b78b37b810acce9f-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/b7ea2ab4a8ad1f81.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\b7ea2ab4a8ad1f81.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/b957ea75a84b6ea7-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\b957ea75a84b6ea7-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/ba43ea3467e29870.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\ba43ea3467e29870.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/bc2003170c651d45.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\bc2003170c651d45.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/bcd7ed7b8307a5f1-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\bcd7ed7b8307a5f1-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/bd82c78e5b7b3fe9-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\bd82c78e5b7b3fe9-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/bda87828535b47a7-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\bda87828535b47a7-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/be2416cbb012c256.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\be2416cbb012c256.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/c02e77600ed6c2ab-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\c02e77600ed6c2ab-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/c1a1fe1e2bf9b2ee-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\c1a1fe1e2bf9b2ee-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/c32c8052c071fc42-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\c32c8052c071fc42-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/c3bc380753a8436c-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\c3bc380753a8436c-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/c4250770ab8708b6-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\c4250770ab8708b6-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/c944b765f2f70748-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\c944b765f2f70748-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/c97d4358b5ad6f1f.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\c97d4358b5ad6f1f.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/ca1d48d650382c09.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\ca1d48d650382c09.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/cab3700fee18b5d1-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\cab3700fee18b5d1-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/cdb49c89c00abc0d-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\cdb49c89c00abc0d-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/cde148027b808b99.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\cde148027b808b99.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/cf166282f6a0cc9e-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\cf166282f6a0cc9e-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/cf66601165af2130-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\cf66601165af2130-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/cf9548a654a0290e-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\cf9548a654a0290e-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/d0ae519964ce1eb9-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\d0ae519964ce1eb9-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/d253d336c1ac3662-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\d253d336c1ac3662-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/d3efbe5313c5c902-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\d3efbe5313c5c902-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/d43ef4503e5571d0.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\d43ef4503e5571d0.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/d4fbdff1b926f9f7.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\d4fbdff1b926f9f7.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/d607327a37a507c7.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\d607327a37a507c7.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/d6fc113833db48fe-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\d6fc113833db48fe-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/d8c14dc5fcaf3a63.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\d8c14dc5fcaf3a63.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/d960e2aae5efcef3-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\d960e2aae5efcef3-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/db911767852bc875-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\db911767852bc875-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/dbd9849a8a735d72-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\dbd9849a8a735d72-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/deda211e4ad86307-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\deda211e4ad86307-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/df0a9ae256c0569c-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\df0a9ae256c0569c-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/e14a6f640cd3427a-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\e14a6f640cd3427a-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/e1bfc245270dd1fc.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\e1bfc245270dd1fc.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/e1df014bb05b8510-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\e1df014bb05b8510-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/e4af272ccee01ff0-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\e4af272ccee01ff0-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/e61ae719f7cc4155.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\e61ae719f7cc4155.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/e6b5cfd5a74e1cae.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\e6b5cfd5a74e1cae.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/e71fabea6efe8a38-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\e71fabea6efe8a38-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/e79147326f4a3c39.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\e79147326f4a3c39.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/e8773fdd4b7ad26f-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\e8773fdd4b7ad26f-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/eafabf029ad39a43-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\eafabf029ad39a43-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/ebec2867f40f78ec.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\ebec2867f40f78ec.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/edc640959b0c7826.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\edc640959b0c7826.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/ede32cc05115f315-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\ede32cc05115f315-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/eeeb642bd71d217b-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\eeeb642bd71d217b-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/f10b8e9d91f3edcb-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\f10b8e9d91f3edcb-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/f1df658da56627d0-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\f1df658da56627d0-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/f1f7cdf240180e28-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\f1f7cdf240180e28-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/f259b773f7602f5c-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\f259b773f7602f5c-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/fc727f226c737876.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\fc727f226c737876.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/fe0777f1195381cb-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\fe0777f1195381cb-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/fe38b696a443eb13-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\fe38b696a443eb13-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/fe4c52824bfaed3e-s.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\fe4c52824bfaed3e-s.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/_next/static/media/ff71da380fbe67dd.woff2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\_next\static\media\ff71da380fbe67dd.woff2
+Content Type: font/woff2
+
+Uri: https://static-2v.gitbook.com/~gitbook/static/icons/svgs/custom-icons/gitbook.svg?v=2
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\static\icons\svgs\custom-icons\gitbook.svg
+Content Type: image/svg+xml
+
