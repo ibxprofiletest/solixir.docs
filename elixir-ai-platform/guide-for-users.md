@@ -6,7 +6,7 @@ description: Welcome to Guide for Creating Stunning 3D Models in Minutes
 
 We invite you to explore this comprehensive guide designed to assist you in crafting remarkable 3D models with ease and efficiency.
 
-To commence your journey, please navigate to our official website at [https://elixir-ai.pro](htts://elixir-ai.pro). It is imperative to verify the domain to ensure you avoid any fraudulent links.
+To commence your journey, please navigate to our official website at [https://elixir-ai.pro](htts://solixir.io). It is imperative to verify the domain to ensure you avoid any fraudulent links.
 
 <figure><img src="https://1734432750-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F8jiPYSjwm8eKyTblT7u6%2Fuploads%2FLiirHjPODOYUCkaKMqkn%2Fimage.png?alt=media&#x26;token=1f09c57e-f1fc-4e31-ac0a-761ab2bd9834" alt=""><figcaption></figcaption></figure>
 
