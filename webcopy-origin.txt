@@ -114,12 +114,12 @@ Uri: https://docs.elixir-ai.pro/roadmap.md
 File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\roadmap.md
 Content Type: text/markdown
 
-Uri: https://docs.elixir-ai.pro/usdelxai-token
-File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\usdelxai-token.html
+Uri: https://docs.elixir-ai.pro/solixir-token
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\solixir-token.html
 Content Type: text/html
 
-Uri: https://docs.elixir-ai.pro/usdelxai-token.md
-File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\usdelxai-token.md
+Uri: https://docs.elixir-ai.pro/solixir-token.md
+File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\solixir-token.md
 Content Type: text/markdown
 
 Uri: https://docs.elixir-ai.pro/~gitbook/icon?size=medium&theme=dark
