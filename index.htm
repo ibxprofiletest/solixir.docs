@@ -666,7 +666,44 @@
             <div
               class="flex grow-0 shrink-0 md:basis-56 justify-self-end items-center gap-2 md:grow-[0.8] lg:basis-40 md:max-w-[40%] lg:max-w-lg lg:ml-[max(calc((100%-18rem-48rem)/2),1.5rem)] xl:ml-[max(calc((100%-18rem-48rem-14rem-3rem)/2),1.5rem)] md:mr-auto order-last md:order-[unset]"
             >
-              
+              <div class="relative flex size-9 grow">
+                <div
+                  class="button group/button inline-flex items-center gap-2 rounded-md straight-corners:rounded-none circular-corners:rounded-3xl border border-tint hover:border-tint-hover disabled:border-tint depth-subtle:shadow-xs hover:depth-subtle:shadow-md focus-visible:depth-subtle:shadow-md active:depth-subtle:shadow-xs shadow-tint/6 dark:shadow-tint-1 contrast-more:border-tint-12 contrast-more:hover:border-2 contrast-more:hover:border-tint-12 hover:depth-subtle:-translate-y-px focus-visible:depth-subtle:-translate-y-px active:depth-subtle:translate-y-0 transition-all truncate disabled:cursor-not-allowed disabled:translate-y-0! disabled:shadow-none! bg-tint-base text-tint hover:theme-clean:bg-tint-subtle theme-bold:bg-header-link/2 theme-bold:text-header-link theme-bold:shadow-none! hover:theme-bold:bg-header-link/3 hover:theme-bold:text-header-link hover:theme-bold:shadow-none hover:theme-bold:border-header-link/5 contrast-more:theme-bold:bg-header-background contrast-more:theme-bold:text-header-link contrast-more:theme-bold:border-header-link contrast-more:hover:theme-bold:border-header-link text-sm py-1.5 md:circular-corners:px-4 has-[input:focus]:-translate-y-px h-9 cursor-pointer px-2.5 has-[input:focus]:bg-tint-base has-[input:focus]:depth-subtle:shadow-lg has-[input:focus]:depth-subtle:shadow-primary-subtle has-[input:focus-visible]:ring-2 has-[input:focus-visible]:ring-primary-hover md:cursor-text theme-bold:border-header-link/3 has-[input:focus-visible]:theme-bold:border-header-link/5 has-[input:focus-visible]:theme-bold:bg-header-link/3 has-[input:focus-visible]:theme-bold:ring-header-link/5 theme-bold:before:absolute theme-bold:before:inset-0 theme-bold:before:bg-header-background/7 theme-bold:before:backdrop-blur-xl relative z-30 shrink grow justify-start max-md:absolute max-md:right-0 max-md:w-[38px]"
+                >
+                  <svg
+                    style="
+                      mask-image: url(releases/v6.6.0/svgs/regular/magnifying-glass.svg);
+                      -webkit-mask-image: url(releases/v6.6.0/svgs/regular/magnifying-glass.svg);
+                      mask-repeat: no-repeat;
+                      -webkit-mask-repeat: no-repeat;
+                      mask-position: center;
+                      -webkit-mask-position: center;
+                    "
+                    class="gb-icon size-4 shrink-0 animate-scale-in"
+                  ></svg
+                  ><input
+                    type="text"
+                    placeholder="Search…"
+                    maxlength="512"
+                    size="10"
+                    data-testid="search-input"
+                    class="peer z-10 min-w-0 grow bg-transparent py-0.5 text-tint-strong theme-bold:text-header-link outline-hidden transition-[width] duration-300 contain-paint placeholder:text-tint theme-bold:placeholder:text-current theme-bold:placeholder:opacity-7 max-md:opacity-0"
+                    value=""
+                  />
+                  <div
+                    aria-busy="true"
+                    class="shortcut -mr-1 relative z-10 hidden justify-end gap-0.5 whitespace-nowrap text-xs [font-feature-settings:&quot;calt&quot;,&quot;case&quot;] after:absolute after:right-full after:z-20 after:h-full after:w-8 after:bg-linear-to-r after:from-transparent after:to-tint-base theme-bold:after:to-transparent after:content-[&#x27;&#x27;] contrast-more:text-tint-strong md:flex opacity-0"
+                  >
+                    <kbd
+                      class="flex h-5 min-w-5 items-center justify-center rounded-sm border border-tint-subtle theme-bold:border-header-link/5 bg-tint-base theme-bold:bg-header-background px-1"
+                      >Ctrl</kbd
+                    ><kbd
+                      class="flex size-5 items-center justify-center rounded-sm border border-tint-subtle theme-bold:border-header-link/5 bg-tint-base theme-bold:bg-header-background px-1"
+                      >K</kbd
+                    >
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
