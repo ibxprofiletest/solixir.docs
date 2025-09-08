@@ -368,17 +368,17 @@
                 },
               });
           };
-        return (0, i.jsx)(j, {
-          type: r,
-          icon: a ? "check" : "copy",
-          label: a ? (0, d.si)(n, "code_copied") : (0, d.si)(n, "copy_page"),
-          shortLabel: a
-            ? (0, d.si)(n, "code_copied")
-            : (0, d.si)(n, "code_copy"),
-          description: (0, d.si)(n, "copy_page_markdown"),
-          onClick: m,
-          loading: o,
-        });
+        // return (0, i.jsx)(j, {
+        //   type: r,
+        //   icon: a ? "check" : "copy",
+        //   label: a ? (0, d.si)(n, "code_copied") : (0, d.si)(n, "copy_page"),
+        //   shortLabel: a
+        //     ? (0, d.si)(n, "code_copied")
+        //     : (0, d.si)(n, "code_copy"),
+        //   description: (0, d.si)(n, "copy_page_markdown"),
+        //   onClick: m,
+        //   loading: o,
+        // });
       }
       function L(e) {
         let { markdownPageUrl: t, type: r } = e,
@@ -537,37 +537,37 @@
           n = (0, d.ok)(),
           s = [r.length > 0, e.actions.markdown, e.editOnGit].filter(Boolean),
           a = [e.actions.externalAI, e.pdfUrl].filter(Boolean);
-        return [...s, ...a].length > 0
-          ? (0, i.jsxs)(o.ButtonGroup, {
-              ref: t,
-              className: e.className,
-              children: [
-                s.length > 0 ? (0, i.jsx)(k, { ...e }) : null,
-                a.length > 0
-                  ? (0, i.jsx)(c.DropdownMenu, {
-                      align: "end",
-                      className: "!min-w-60 max-w-max",
-                      button: (0, i.jsx)(o.Button, {
-                        icon: (0, i.jsx)(u.In, {
-                          icon: "chevron-down",
-                          className:
-                            "size-3 transition-transform group-data-[state=open]/button:rotate-180",
-                        }),
-                        label: (0, d.si)(
-                          n,
-                          s.some(Boolean) ? "more" : "actions"
-                        ),
-                        iconOnly: s.some(Boolean),
-                        size: "xsmall",
-                        variant: "secondary",
-                        className: "bg-tint-base text-sm",
-                      }),
-                      children: (0, i.jsx)(C, { ...e }),
-                    })
-                  : null,
-              ],
-            })
-          : null;
+        // return [...s, ...a].length > 0
+        //   ? (0, i.jsxs)(o.ButtonGroup, {
+        //       ref: t,
+        //       className: e.className,
+        //       children: [
+        //         s.length > 0 ? (0, i.jsx)(k, { ...e }) : null,
+        //         a.length > 0
+        //           ? (0, i.jsx)(c.DropdownMenu, {
+        //               align: "end",
+        //               className: "!min-w-60 max-w-max",
+        //               button: (0, i.jsx)(o.Button, {
+        //                 icon: (0, i.jsx)(u.In, {
+        //                   icon: "chevron-down",
+        //                   className:
+        //                     "size-3 transition-transform group-data-[state=open]/button:rotate-180",
+        //                 }),
+        //                 label: (0, d.si)(
+        //                   n,
+        //                   s.some(Boolean) ? "more" : "actions"
+        //                 ),
+        //                 iconOnly: s.some(Boolean),
+        //                 size: "xsmall",
+        //                 variant: "secondary",
+        //                 className: "bg-tint-base text-sm",
+        //               }),
+        //               children: (0, i.jsx)(C, { ...e }),
+        //             })
+        //           : null,
+        //       ],
+        //     })
+        //   : null;
       }
       function C(e) {
         let { markdownPageUrl: t, actions: r } = e,
