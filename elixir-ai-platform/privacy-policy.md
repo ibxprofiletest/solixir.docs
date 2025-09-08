@@ -59,4 +59,4 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 If you have any questions or comments regarding this Privacy Policy, please contact us at: hello@solixir.io
 
 [\
-](https://alchemy-3d.gitbook.io/https-alchemy-ai.pro/3d-alchemy-platform/3d-alchemy-api)
+](https://solixir-docs.vercel.app/elixir-ai-platform/api-access)
