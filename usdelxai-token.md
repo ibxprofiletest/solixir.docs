@@ -5,7 +5,7 @@
 We are pleased to introduce the unique decentralized utility token, $SOLIXIR. Holding this token grants you unrestricted access to the Solixir, a platform that enables users to transform two-dimensional sketches into stunning three-dimensional models and much more. As our user base expands, we anticipate a corresponding increase in the value of the $SOLIXIR token. Furthermore, the token's growth will be bolstered by subsequent monetization opportunities through the sale of exclusive 3D models created by users on our Web3 marketplace.
 
 [\
-](https://alchemy-3d.gitbook.io/https-alchemy-ai.pro/roadmap)
+](https://solixir-docs.vercel.app/roadmap)
 
 | Features           | Details                                     |
 | ------------------ | ------------------------------------------- |
