@@ -4,7 +4,7 @@ description: 'Effective Date: 13.04.2025'
 
 # Privacy Policy
 
-This Privacy Policy outlines how Elixir AI (hereinafter referred to as "we," "us," or "our") collects, uses, and protects the information you provide when using our AI-powered 3D modeling service. Please read this policy carefully to understand our practices regarding your personal data.
+This Privacy Policy outlines how Solixir (hereinafter referred to as "we," "us," or "our") collects, uses, and protects the information you provide when using our AI-powered 3D modeling service. Please read this policy carefully to understand our practices regarding your personal data.
 
 #### 1. Information We Collect <a href="#id-1.-information-we-collect" id="id-1.-information-we-collect"></a>
 

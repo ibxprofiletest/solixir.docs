@@ -17,7 +17,7 @@
 * [x] Smart-contract development
 * [x] Pump.fun Launch
 * [x] DEX Listing
-* [x] Elixir AI Official Release
+* [x] Solixir Official Release
 * [ ] CMC Listing
 * [ ] CG ListingCG Listing
 
