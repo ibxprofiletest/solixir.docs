@@ -1499,8 +1499,63 @@
                   null == (t = b.current) ||
                     t.setSelectionRange(p.length, p.length))
                 : null == (n = b.current) || n.blur();
-            }, [x, p])
-            
+            }, [x, p]),
+            (0, s.jsx)("div", {
+              className: (0, r.P)("relative flex size-9 grow", g),
+              children: (0, s.jsxs)("div", {
+                ref: t,
+                onClick: h,
+                className: (0, r.P)(
+                  y,
+                  o.ST.header,
+                  u,
+                  "has-[input:focus]:-translate-y-px h-9 grow cursor-pointer px-2.5 has-[input:focus]:bg-tint-base has-[input:focus]:depth-subtle:shadow-lg has-[input:focus]:depth-subtle:shadow-primary-subtle has-[input:focus-visible]:ring-2 has-[input:focus-visible]:ring-primary-hover md:cursor-text",
+                  "theme-bold:border-header-link/3 has-[input:focus-visible]:theme-bold:border-header-link/5 has-[input:focus-visible]:theme-bold:bg-header-link/3 has-[input:focus-visible]:theme-bold:ring-header-link/5",
+                  "theme-bold:before:absolute theme-bold:before:inset-0 theme-bold:before:bg-header-background/7 theme-bold:before:backdrop-blur-xl ",
+                  "relative z-30 shrink grow justify-start max-md:absolute max-md:right-0",
+                  x ? "max-md:w-56" : "max-md:w-[38px]"
+                ),
+                children: [
+                  p && x
+                    ? (0, s.jsx)(o.$n, {
+                        variant: "blank",
+                        label: "Clear",
+                        size: "medium",
+                        iconOnly: !0,
+                        icon: "circle-xmark",
+                        className: "-ml-1.5 -mr-1 animate-scale-in px-1.5",
+                        onClick: () => {
+                          var e;
+                          n(""), null == (e = b.current) || e.focus();
+                        },
+                      })
+                    : (0, s.jsx)(i.In, {
+                        icon: "magnifying-glass",
+                        className: "size-4 shrink-0 animate-scale-in",
+                      }),
+                  (0, s.jsx)("input", {
+                    type: "text",
+                    onFocus: h,
+                    onKeyDown: d,
+                    onChange: (e) => n(e.target.value),
+                    value: p,
+                    placeholder: "".concat(
+                      (0, l.si)(v, f ? "search_or_ask" : "search"),
+                      "…"
+                    ),
+                    maxLength: 512,
+                    size: 10,
+                    "data-testid": "search-input",
+                    className: (0, r.P)(
+                      "peer z-10 min-w-0 grow bg-transparent py-0.5 text-tint-strong theme-bold:text-header-link outline-hidden transition-[width] duration-300 contain-paint placeholder:text-tint theme-bold:placeholder:text-current theme-bold:placeholder:opacity-7",
+                      x ? "" : "max-md:opacity-0"
+                    ),
+                    ref: b,
+                  }),
+                  x ? null : (0, s.jsx)(m, {}),
+                ],
+              }),
+            })
           );
         });
       function m() {
