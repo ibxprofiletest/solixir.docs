@@ -15,4 +15,4 @@ We are pleased to introduce the unique decentralized utility token, $SOLIXIR. Ho
 | Token Standard     | Solana                                      |
 | Token Type         | Utility, Governance                         |
 | Total Token Supply | 1,000,000,000                               |
-| Contract Address   | jriiULJQwgqdU48hTv1eKqK4ipCiCWBnP9CZbonpump |
+| Contract Address   | Coming soon |

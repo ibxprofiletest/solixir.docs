@@ -9620,7 +9620,7 @@
                       st(e, n, r, o, t, null);
                   }
               }
-            a && st(e, n, "srcSet", t.srcSet, t, null),
+            // a && st(e, n, "srcSet", t.srcSet, t, null),
               l && st(e, n, "src", t.src, t, null);
             return;
           case "input":
