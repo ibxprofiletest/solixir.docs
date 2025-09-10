@@ -122,19 +122,19 @@ Uri: https://docs.elixir-ai.pro/solixir-token.md
 File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\solixir-token.md
 Content Type: text/markdown
 
-Uri: https://docs.elixir-ai.pro/~gitbook/icon?size=medium&theme=dark
+Uri: ../~gitbook/icon?size=medium&theme=dark
 File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\icon-3
 Content Type: image/png
 
-Uri: https://docs.elixir-ai.pro/~gitbook/icon?size=medium&theme=light
+Uri: ../~gitbook/icon?size=medium&theme=light
 File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\icon
 Content Type: image/png
 
-Uri: https://docs.elixir-ai.pro/~gitbook/icon?size=small&theme=dark
+Uri: ../~gitbook/icon?size=small&theme=dark
 File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\icon-2
 Content Type: image/png
 
-Uri: https://docs.elixir-ai.pro/~gitbook/icon?size=small&theme=light
+Uri: ../~gitbook/icon?size=small&theme=light
 File Name: D:\WorkingDirectory\CloneSite\client's side\new docs\docs.elixir-ai.pro\~gitbook\icon-1
 Content Type: image/png
 
